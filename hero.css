@@ -1,0 +1,17 @@
+header {
+	background-color:  #00004C;
+	padding: 40px;
+}
+
+h1 {
+	font-size: 90px;
+	color: white;
+}
+
+header img{
+	border-radius: 150px;
+}
+/*<header>
+		<img src="http://www.clipartbest.com/cliparts/aiq/ogR/aiqogRgeT.jpg">
+		<h1>Hungry Pineapple</h1>
+	</header>*/
